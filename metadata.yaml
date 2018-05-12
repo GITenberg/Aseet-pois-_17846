@@ -1,0 +1,42 @@
+_repo: Aseet-pois-_17846
+_version: 0.1.0
+alternative_title: Waffen nieder. Finnish
+contributor:
+  translator:
+    agent_name: Nissinen, Alli
+    birthdate: 1866
+    deathdate: 1926
+    gutenberg_agent_id: '5800'
+    url: http://www.gutenberg.org/2009/agents/5800
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Suttner, Bertha von
+    aliases:
+    - Kinsky von Wchinitz und Tettau, Bertha Sophia Felicita, Gräfin
+    - Von Suttner, Bertha
+    - Kinsky von Wchinitz und Tettau, Bertha Sophia Felicita, Grafin
+    - Kinsky, Bertha Felicie Sophie, Freifrau von Suttner
+    - Suttner, Bertha Felicie Sophie Kinsky, Freifrau von
+    birthdate: 1843
+    deathdate: 1914
+    gutenberg_agent_id: '7643'
+    url: http://www.gutenberg.org/2009/agents/7643
+    wikipedia: http://en.wikipedia.org/wiki/Bertha_von_Suttner
+description: ''
+gutenberg_issued: '2006-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17846'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peace'
+- !lcsh 'War'
+- !lcc 'PT'
+title: Aseet pois!
+url: http://www.gutenberg.org/ebooks/17846
